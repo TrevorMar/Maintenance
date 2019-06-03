@@ -21,9 +21,10 @@ animation-iteration-count: infinite;
   .text{
     color: #fff;
     font-size:34px; 
-    position: absolute;
-    left: calc(50% - 291px/2);
-    top: calc(50% - 48px/2);
+    width: 300px;
+    line-height: 300px;
+    margin: 0 auto;
+    vertical-align: middle;
 
 
   }
