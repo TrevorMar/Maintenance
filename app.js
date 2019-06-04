@@ -1,7 +1,7 @@
 var aText = new Array(
 "Oops... You shouldn't have seen this.",
 "",
-"I'm currently working hard on a redesign of his website.",
+"I'm currently working hard on a redesign of my website.",
 "",
 "Check back soon!",
 "",
